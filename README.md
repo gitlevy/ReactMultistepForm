@@ -1,6 +1,8 @@
 # Multistep Form in React JS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Online Preview : https://beautiful-pothos-06cc4a.netlify.app/
+
+##
 
 ## Available Scripts
 
